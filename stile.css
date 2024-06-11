@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.YELLOW{
+    background-color: yellow;
+    padding: 14px 50px;
+}
+.dad{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.black{
+    background-color: black;
+    width: 300px;
+    text-align: center;
+    color: white;
+}
+.bla{
+    color: yellow;
+}
+body{
+    background-color: rgb(244, 52, 84);
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 70px;
+}
+.dad2{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    flex-wrap: wrap;
+}
